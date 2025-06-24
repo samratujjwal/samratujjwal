@@ -65,7 +65,7 @@
 ### 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/utsav/Airbnb">
+  <a href="https://github.com/samratujjwal/Airbnb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samratujjwal&repo=Airbnb&theme=gruvbox&hide_border=true" />
   </a>
 </p>
