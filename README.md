@@ -2,7 +2,7 @@
 <h3 align="center">🧠 Learning | 🛠️ Building | 💡 Automating</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB0A1&center=true&vCenter=true&width=435&lines=Java+Developer;Automation+Enthusiast;Open+Source+Contributor;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB0A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Automation+Enthusiast;Open+Source+Contributor;Lifelong+Learner" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,js,html,css,git,github,vscode,react" />
 </p>
 
 ---
